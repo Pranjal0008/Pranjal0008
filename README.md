@@ -24,10 +24,6 @@ _A stock trading portfolio dashboard with live analytics and data visualization.
 🧠 **Breast Cancer Detection (ML Project)**  
 _Built and deployed a classification model using Scikit-Learn to predict breast cancer with high accuracy._  
 
-🤖 **AI Chatbot**  
-_A conversational chatbot trained on custom intents using Python & TensorFlow._  
-
-📊 More projects on my [GitHub Repositories](https://github.com/Pranjal0008?tab=repositories)  
 
 ---
 
